@@ -33,12 +33,6 @@ La aplicación ha sido comprobada en varios formatos tal como se muestra al fina
 - **Dispositivo de Prueba (Emulador o Físico)**
   * Un emulador de Android o un dispositivo físico con Android 7.0 o superior para probar y depurar la app.
 
-## Requisitos para la Ejecución del Programa en un dispositivo
-- **Sistema Operativo Android 7.0 o Superior**
-* La app requiere un dispositivo Android con versión 7.0 (Nougat) o superior para asegurar compatibilidad con sus componentes.
-- **Espacio de Almacenamiento Suficiente**
-*Espacio en el dispositivo para instalar y ejecutar la app sin problemas.
-
 ## Instrucciones para clonar y ejecutar el proyecto en Android Studio
 ### 1. Clona el repositorio:
 Abre la terminal o línea de comandos y clona el repositorio en tu máquina local:
