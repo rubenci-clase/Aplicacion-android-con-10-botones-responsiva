@@ -7,8 +7,10 @@ La aplicación ha sido comprobada en varios formatos tal como se muestra al fina
 - **Funciona en modo noche** La interfaz es totalmente funcional en modo noche.
 - **Diseño limpio** Cada botón tiene márgenes definidos para dar espacio entre ellos, ofreciendo una interfaz clara y fácil de usar.
 - **Fácil de reutilizar** Cada botón tiene un ID único, lo que facilita su acceso y configuración en el código para manejar eventos de clic.
+<img src="![image](https://github.com/user-attachments/assets/59c5c4eb-efcb-4862-91a8-555392e15a67)" width="640" height="400"/>
 
-![image](https://github.com/user-attachments/assets/96e4c809-fa8f-468c-adfd-a087c6661f71)
+![image](https://github.com/user-attachments/assets/0a0135b4-67b1-4482-a4c0-5098553e224c)
+
 
 ## Tecnologías Utilizadas
 - **Android Studio** Entorno de desarrollo
