@@ -3,13 +3,13 @@ App creada para **Android 7.0** o posteriores, que utiliza un GridLayout para or
 
 La aplicación ha sido comprobada en varios formatos tal como se muestra al final del documento (Smartphone, Tablet y Escritorio).
 
+![image](https://github.com/user-attachments/assets/59c5c4eb-efcb-4862-91a8-555392e15a67)
+
 ## Características
 - **Es responsiva** Se ajustan automáticamente al tamaño de la pantalla, manteniendo una distribución uniforme en diferentes dispositivos.
 - **Funciona en modo noche** La interfaz es totalmente funcional en modo noche.
 - **Diseño limpio** Cada botón tiene márgenes definidos para dar espacio entre ellos, ofreciendo una interfaz clara y fácil de usar.
 - **Fácil de reutilizar** Cada botón tiene un ID único, lo que facilita su acceso y configuración en el código para manejar eventos de clic.
-
-![image](https://github.com/user-attachments/assets/59c5c4eb-efcb-4862-91a8-555392e15a67)
 
 ## Tecnologías Utilizadas
 - **Android Studio** Entorno de desarrollo
