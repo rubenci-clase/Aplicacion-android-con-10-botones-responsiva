@@ -7,10 +7,7 @@ La aplicación ha sido comprobada en varios formatos tal como se muestra al fina
 - **Funciona en modo noche** La interfaz es totalmente funcional en modo noche.
 - **Diseño limpio** Cada botón tiene márgenes definidos para dar espacio entre ellos, ofreciendo una interfaz clara y fácil de usar.
 - **Fácil de reutilizar** Cada botón tiene un ID único, lo que facilita su acceso y configuración en el código para manejar eventos de clic.
-<img src=![image](https://github.com/user-attachments/assets/59c5c4eb-efcb-4862-91a8-555392e15a67) width="400" height="640"/>
-
-![image](https://github.com/user-attachments/assets/0a0135b4-67b1-4482-a4c0-5098553e224c)
-
+![image](https://github.com/user-attachments/assets/59c5c4eb-efcb-4862-91a8-555392e15a67)
 
 ## Tecnologías Utilizadas
 - **Android Studio** Entorno de desarrollo
@@ -21,12 +18,16 @@ La aplicación ha sido comprobada en varios formatos tal como se muestra al fina
 ## Requisitos Previos para el desarrollo
 - **Android Studio**
   * el IDE oficial para el desarrollo de aplicaciones Android.
+    
 - **JDK (Java Development Kit)**
   * Java Development Kit, versión 8 o superior, necesario para compilar el código en Java.
+    
 - **Android SDK**
   * Instalación de la SDK de Android, especialmente la API 24 (Android 7.0 - Nougat) o superior, ya que la app está orientada a esta versión mínima.
+    
 - **Conexión a Internet**
   * Necesaria para descargar dependencias, herramientas y actualizaciones de Android Studio y el SDK.
+    
 - **Dispositivo de Prueba (Emulador o Físico)**
   * Un emulador de Android o un dispositivo físico con Android 7.0 o superior para probar y depurar la app.
 
