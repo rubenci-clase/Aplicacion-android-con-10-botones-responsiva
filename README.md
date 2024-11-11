@@ -8,7 +8,7 @@ La aplicación ha sido comprobada en varios formatos tal como se muestra al fina
 - **Diseño limpio** Cada botón tiene márgenes definidos para dar espacio entre ellos, ofreciendo una interfaz clara y fácil de usar.
 - **Fácil de reutilizar** Cada botón tiene un ID único, lo que facilita su acceso y configuración en el código para manejar eventos de clic.
 
-![Captura de Pantalla](ruta/a/tu/captura.png)
+![image](https://github.com/user-attachments/assets/96e4c809-fa8f-468c-adfd-a087c6661f71)
 
 ## Tecnologías Utilizadas
 - **Android Studio** Entorno de desarrollo
