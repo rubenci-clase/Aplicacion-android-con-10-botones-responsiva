@@ -1,5 +1,5 @@
 # Aplicacion-android-con-10-botones-responsiva
-Android que utiliza un GridLayout para organizar una serie de botones numerados del 1 al 9 y el 0. Este diseño es flexible, permitiendo que los botones se distribuyan uniformemente en la pantalla del dispositivo.
+App creada para **Android 7.0** o posteriores, que utiliza un GridLayout para organizar una serie de botones numerados del 1 al 9 y el 0. Este diseño es flexible, permitiendo que los botones se distribuyan uniformemente en la pantalla del dispositivo.
 
 La aplicación ha sido comprobada en varios formatos tal como se muestra al final del documento (Smartphone, Tablet y Escritorio).
 
